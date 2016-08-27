@@ -1,0 +1,14 @@
+{
+  "name": "node_scripts",
+  "version": "1.0.0",
+  "description": "Some scripts for everyday needs, written in node",
+  "main": "create_vim_snippet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt": "git+https://github.com/flatiron/prompt.git"
+  }
+}

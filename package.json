@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "kraken": "^0.3.3",
+    "node-dir": "^0.1.16",
     "prompt": "git+https://github.com/flatiron/prompt.git"
   }
 }
